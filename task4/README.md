@@ -1,6 +1,4 @@
-@everyone
-
-**Task #4 (ALL GROUPS) **
+**Task #4**
 
 Use language and platform **FOR YOU GROUP**:
 
